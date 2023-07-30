@@ -1,4 +1,4 @@
-# LookItUp - Image Search Project
+# Look it Up - Image Search Project
 
 ## Welcome to LookItUp, a simple image search project created to enhance web development skills, work with JavaScript, and learn how to interact with APIs using the Unsplash API.
 
