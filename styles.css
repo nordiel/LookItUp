@@ -187,6 +187,12 @@ button:hover {
 
 @media screen and (max-width: 480px) {
 
+    h1 {
+
+        color: var(--orange);
+
+    }
+
     .search-result img{
 
         width: 100%;
@@ -204,6 +210,13 @@ footer a{
 }
 
 @media screen and (max-width: 768px) {
+
+    h1 {
+
+        color: var(--orange);
+
+    }
+
     form button {
 
       display: none;
