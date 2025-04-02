@@ -16,11 +16,4 @@ Welcome to LookItUp, a simple image search project created to enhance web develo
 - JavaScript
 - Unsplash API
 
-### Contributing
-
-Contributions to LookItUp are welcome! If you have any bug fixes, feature enhancements, or suggestions, please feel free to submit a pull request.
-
-### License
-LookItUp is open-source and licensed under the MIT License.
-
-Happy coding and have fun exploring the world of image search with LookItUp! If you have any questions or need further assistance, feel free to reach out. Enjoy the journey of web development!
+### LookItUp is Live [HERE](https://nordiel.github.io/LookItUp/)
